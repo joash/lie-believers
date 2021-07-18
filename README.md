@@ -3,7 +3,7 @@ Truth, is mostly housed by walls built on facts, and floors cast on solid eviden
 
 And, these naysayers usually attract sizeable crowds of lie-believers that mill around their fictional theories like greyhounds going for a kill! As a visual story teller, _I often wonder what kind of emotions, feelings and opinion-polarities (sentiments) are contained in comments from lie-believers._ In my recent travels - Social Media, of course - I met __Megyn Kelly__, a news anchor at Fox News, talking about the son of Joseph, the famous carpenter from Nazareth; a city in the Middle East, who suddenly became 'white', like the European Santa Claus. Jamelle Blouie, an editor from the Daily Beast and Eric Marrapodi of CNN picked on this "Christmas misinformation". 
 
-Well, there is only one way of quenching my thirst on 'naysayers and lie-believers'...hunt 'em down! I'll scrape comments from these two YouTube videos (Fox News and CNN's) via the YouTube API and perform __a sentiment analysis in R__. 
+Well, there is only one way of quenching my thirst on __'naysayers and lie-believers'__...hunt 'em down! I'll scrape comments from these two YouTube videos (Fox News and CNN's) via the YouTube API and perform __a sentiment analysis in R__. 
 
 __"Belief Blog: Sorry, Jesus isn't white"__. CNN, YouTube, December 14, 2013 (https://www.youtube.com/watch?v=g1Dlz8bBokw). CNN's __Eric Marrapodi__ and the Daily Beasts' __Jamelle Blouie__ discuss Fox News anchor __Megyn Kelly's__ remark about Jesus being white (https://www.youtube.com/watch?v=7XYlJqf4dLI). Jamelle wrote an open response to Kelly's misinformation (https://www.thedailybeast.com/yes-megyn-kelly-santa-can-be-black-and-jesus-too).
 
